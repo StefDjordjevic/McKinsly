@@ -5,11 +5,6 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        {/* Google Site Verification */}
-        <meta
-          name="google-site-verification"
-          content="4aCXS-26biQYiXh5fTqeQvPy89lcJ7t6V_Uq0k_pGWk"
-        />
         {/* Google Tag (gtag.js) */}
         <script
           async
