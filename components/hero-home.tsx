@@ -1,4 +1,4 @@
-import VideoThumb from "@/public/images/McKinsley-Main-Image.jpeg";
+import VideoThumb from "@/public/images/37ab4c06-357e-40ff-8375-45d5ef41d27b.png";
 import ModalVideo from "@/components/modal-video";
 
 export default function HeroHome() {
@@ -47,8 +47,6 @@ export default function HeroHome() {
             thumbHeight={576}
             thumbAlt="Modal video thumbnail"
             video="videos//video.mp4"
-            videoWidth={1920}
-            videoHeight={1080}
           />
         </div>
       </div>
