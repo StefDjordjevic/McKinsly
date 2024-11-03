@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "McKinsly - Take back your time",
+  description: "",
 };
 
 import PageIllustration from "@/components/page-illustration";
